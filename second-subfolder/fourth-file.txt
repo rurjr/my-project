@@ -1,1 +1,3 @@
 fourth-file.txt inner text
+
+Thir file was modified in the feature branch
